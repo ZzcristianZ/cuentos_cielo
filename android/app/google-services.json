@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798190940183",
+    "project_id": "cuentos-cielo",
+    "storage_bucket": "cuentos-cielo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798190940183:android:01fa2a4e74f87eeabc6c52",
+        "android_client_info": {
+          "package_name": "com.example.cuentos_cielo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClew0ctUam1aQrGybOOwYBsQ3x08CKpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
